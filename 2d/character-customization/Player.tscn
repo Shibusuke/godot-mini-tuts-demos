@@ -5,13 +5,6 @@
 [ext_resource path="res://UserInterface/Sprites/hat1.png" type="Texture" id=3]
 [ext_resource path="res://Player.gd" type="Script" id=4]
 
-
-
-
-
-
-
-
 [sub_resource type="CircleShape2D" id=1]
 radius = 31.5284
 
